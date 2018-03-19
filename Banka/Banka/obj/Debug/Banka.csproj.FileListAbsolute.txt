@@ -1,0 +1,12 @@
+C:\Users\user1\source\repos\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\user1\source\repos\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.Bank_Main.resources
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.Clients.resources
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.Login.resources
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.pdb
+C:\Users\user1\source\repos\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\user1\source\repos\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
